@@ -1155,11 +1155,11 @@ a:focus, a:hover, .btn:focus, .btn:hover, button:focus, button:hover {
   display: block;
 }
 .testimonial_area .testimonial_carosel .item p .fa-quote-left {
-  text-align: right;
+  text-align: left;
   padding-top: 5px;
 }
 .testimonial_area .testimonial_carosel .item p .fa-quote-right {
-  text-align: left;
+  text-align: right;
   padding-bottom: 5px;
 }
 .testimonial_area .testimonial_carosel .owl-controls {
